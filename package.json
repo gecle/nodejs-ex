@@ -4,7 +4,6 @@
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
   "dependencies": {
-    "object-assign":"4.1.0"
   },
   "engine": {
     "node": "*",
